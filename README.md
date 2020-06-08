@@ -1,12 +1,12 @@
 # Encrypt ls (LocalStorage)
 
 ## To-do
-[  ] Create Inteface(s).
-[  ] Create Class(es).
-[  ] Install Jest.
-[  ] Create tests.
-[  ] Build for using in script tag.
-[  ] Publish on NPM.
+- [ ] Create Inteface(s).
+- [ ] Create Class(es).
+- [ ] Install Jest.
+- [ ] Create tests.
+- [ ] Build for using in script tag.
+- [ ] Publish on NPM.
 
 ## Building and running on localhost
 
