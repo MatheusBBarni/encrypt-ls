@@ -1,6 +1,12 @@
-# empty-project
+# Encrypt ls (LocalStorage)
 
-Empty project.
+## To-do
+[] Create Inteface(s)
+[] Create Class(es)
+[] Install Jest
+[] Create tests
+[] Build for using in script tag
+[] Publish on NPM
 
 ## Building and running on localhost
 
@@ -27,7 +33,3 @@ npm run build-dev
 ```sh
 node dist/bundle.js
 ```
-
-## Credits
-
-Made with [createapp.dev](https://createapp.dev/)
